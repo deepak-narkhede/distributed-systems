@@ -1,4 +1,4 @@
-# Distributed Hash Table 
+## Distributed Hash Table Using Chord Algorithm. 
 
 ### High level design of DHT
 
