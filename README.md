@@ -41,4 +41,7 @@
   * Currently "SHA-1" hashing is used on key (For Data: data key, For Node: hostname:port). Hash key length is 160 bits.
   * It is flexible we can configure different hash function based on configuration.
   
-  
+
+* **In Progress**
+ * Writing test cases.
+ * Error handling.
